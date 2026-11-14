@@ -15,7 +15,7 @@ print(f"O resultado da multiplicação de ({primeiroNumero} * {segundoNumero}) �
 
 #Divisão
 divisão = primeiroNumero / segundoNumero
-print(f"O resultado da divisão de ( {primeiroNumero} / {segundoNumero} é : {divisão}")
+print(f"O resultado da divisão dee ( {primeiroNumero} / {segundoNumero} é : {divisão}")
 
 #resto (mod)
 resto = primeiroNumero % segundoNumero
